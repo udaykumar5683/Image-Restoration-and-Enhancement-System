@@ -1,0 +1,34 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyd
+
+# ML model weights (large files)
+*.pth
+*.h5
+*.pkl
+*.onnx
+*.weights
+*.model
+
+# Generated outputs
+**/static/uploads/**
+**/static/results/**
+**/Overexposure Correction/results/**
+**/test_images/**
+
+# Duplicate images
+*- Copy.png
+*- Copy.jpg
+*- Copy.jpeg
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
