@@ -99,10 +99,6 @@ python app.py
 4️⃣ Open in Browser
 http://127.0.0.1:5000/
 
-📊 Demo Video
-
-🔗 Project Workflow Demo
-https://www.linkedin.com/posts/udaykumargudagudi_embeddedal-tinyml-edgelmpulse-activity-7407101561736171521-H5Zr
 
 📌 Applications
 
